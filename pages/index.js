@@ -107,12 +107,12 @@ const Home = () => {
   return (
     <div className="root">
       <Head>
-        <title>VibbsDod Avavtar Generator | buildspace</title>
+        <title>VibbsDod Avatar Generator | buildspace</title>
       </Head>
       <div className="container">
         <div className="header">
           <div className="header-title">
-            <h1>VibbsDod Avavtar Generator</h1>
+            <h1>VibbsDod Avatar Generator</h1>
           </div>
           <div className="header-subtitle">
             <h2>
